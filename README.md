@@ -1,2 +1,2 @@
 # Innovative-Construction-Groups
-This is a culmination of the work I completed at Innovative Construction Groups as a Production Planning and Process Improvement Intern
+This is a culmination of the work I completed at Innovative Construction Groups as a Production Planning and Process Improvement Intern. I worked with a software called FlexSim to model production lines present in ICG's factories. These models were then used to run simulation tests on diffferent scenarios to be better prepared in the factory. Mainly the models represent production lines in ICG's factory in Green Cove Spring, Florida, and the optimization findings were to be implemented in the new factory being built in South Carolina. 
